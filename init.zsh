@@ -1,2 +1,1 @@
-# fpath+="${0:A:h}/src"
-source "${0:A:h}/src/_gcloud"
+source "/opt/homebrew/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/completion.zsh.inc"
