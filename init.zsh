@@ -1,2 +1,2 @@
 # fpath+="${0:A:h}/src"
-source src/_gcloud
+source "${0:A:h}/src/_gcloud"
